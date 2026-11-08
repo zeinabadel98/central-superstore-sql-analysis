@@ -43,6 +43,10 @@ I organized the original data into a star schema consisting of one fact table an
 
 The fact table stores the sales transactions and numerical values, while the dimension tables contain the details used for analysis.
 
+### Database Diagram
+
+![Superstore ERD](Superstore_ERD.png)
+
 ## Data Validation
 
 Before analyzing the data, I used SQL queries to check the dataset and compare the results with the fact table.
